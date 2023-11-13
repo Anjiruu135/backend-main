@@ -7,7 +7,7 @@ class Database {
       host: 'localhost',
       user: 'root',
       password: '',
-      database: 'cs135_web_db',
+      database: 'cs139_db',
     });
   }
 
